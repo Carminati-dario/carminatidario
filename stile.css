@@ -1,0 +1,108 @@
+#skills-section{
+	text-align: center;
+	margin-top: 50px;
+	}
+.skill{
+	width: 28%;
+	display: inline-block; 
+	margin: 2%;
+}
+.skill-pg{
+	width: 68%;
+	display: inline-block; 
+	margin: 2%;
+}
+h3{ 
+	font-family:verdana;
+	font-weight:bold;
+	font-size: 50px;
+	color:whitesmoke;
+}
+h3.secondo {
+	text-align:center;
+}
+h3.titolo {
+	text-align:center;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 110px;
+}
+h4{
+	font-family:verdana;
+	font-weight:bold;
+	font-size: 30px;
+	text-align:center;
+}
+table{
+	text-align: center;
+	float:center;
+	margin:auto;
+}
+img {
+	margin:10px;
+	height:200px;
+	border:outset grey;
+}
+img.sinistra{
+	float:left;
+}
+img.destra{
+	float:right;
+}
+p{
+	font-family:verdana;
+	font-size: 25px;
+	color:white;
+	}
+p.principale{
+	font-family:georgia;
+	font-size:60px;
+}
+.myButton {
+	box-shadow:inset 0px 3px 5px 0px #91b8b3;
+	background:linear-gradient(to bottom, #7ba197 5%, #3a4a4a 100%);
+	background-color:#95d6c5;
+	border-radius:42px;
+	border:2px solid #566963;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:25px;
+	padding:15px 16px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #2b665e;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #3a4a4a 5%, #95d6c5 100%);
+	background-color:#3a4a4a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.myButton-pg{
+	box-shadow:inset 0px 3px 5px 0px #91b8b3;
+	background:linear-gradient(to bottom, #7ba197 5%, #3a4a4a 100%);
+	background-color:#95d6c5;
+	border-radius:42px;
+	border:2px solid #566963;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:20px;
+	padding:15px 16px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #2b665e;
+}
+.myButton-pg:hover {
+	background:linear-gradient(to bottom, #3a4a4a 5%, #95d6c5 100%);
+	background-color:#3a4a4a;
+}
+.myButton-pg:active {
+	position:relative;
+	top:1px;
+}
+html{
+	background-color: #172327;
+}
